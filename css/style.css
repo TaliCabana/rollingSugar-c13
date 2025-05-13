@@ -26,3 +26,8 @@ main {
   object-fit: cover;
   object-position: center bottom;
 }
+
+.img-detalleReceta {
+  height: 400px;
+  object-fit: cover;
+}
